@@ -7,6 +7,10 @@ TagManager:
   - Ground
   - BadKey
   - GoodKey
+  - box
+  - succesRedCube
+  - BaseRed
+  - BaseBlue
   layers:
   - Default
   - TransparentFX
